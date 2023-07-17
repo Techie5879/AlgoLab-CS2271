@@ -1,0 +1,880 @@
+Number of vertices: 3
+173.908
+Number of vertices: 3
+266.395
+Number of vertices: 3
+187.08
+Number of vertices: 3
+367.896
+Number of vertices: 3
+385.513
+Number of vertices: 4
+750.59
+Number of vertices: 4
+1297.76
+Number of vertices: 4
+376.739
+Number of vertices: 4
+935.802
+Number of vertices: 4
+1046.71
+Number of vertices: 5
+2516.34
+Number of vertices: 5
+1284.67
+Number of vertices: 5
+1417.23
+Number of vertices: 5
+1714.93
+Number of vertices: 5
+1940.51
+Number of vertices: 6
+2387.7
+Number of vertices: 6
+3018
+Number of vertices: 6
+2234.78
+Number of vertices: 6
+1858.62
+Number of vertices: 6
+3489.28
+Number of vertices: 7
+2764.9
+Number of vertices: 7
+5031.96
+Number of vertices: 7
+4972.51
+Number of vertices: 7
+4271.08
+Number of vertices: 7
+3381.56
+Number of vertices: 8
+6459.88
+Number of vertices: 8
+5536.97
+Number of vertices: 8
+4208.77
+Number of vertices: 8
+5085.2
+Number of vertices: 8
+4656.26
+Number of vertices: 9
+5286.77
+Number of vertices: 9
+5985.58
+Number of vertices: 9
+6105.2
+Number of vertices: 9
+7100.95
+Number of vertices: 9
+5323.22
+Number of vertices: 10
+7147.34
+Number of vertices: 10
+7674.71
+Number of vertices: 10
+6569.61
+Number of vertices: 10
+7127.75
+Number of vertices: 10
+7008.37
+Number of vertices: 11
+8768
+Number of vertices: 11
+9825.82
+Number of vertices: 11
+8923.56
+Number of vertices: 11
+10915.7
+Number of vertices: 11
+7179.88
+Number of vertices: 12
+10272.8
+Number of vertices: 12
+9690.2
+Number of vertices: 12
+9003.68
+Number of vertices: 12
+9703.92
+Number of vertices: 12
+8403.72
+Number of vertices: 13
+11556.6
+Number of vertices: 13
+12078.2
+Number of vertices: 13
+9408.56
+Number of vertices: 13
+9924.17
+Number of vertices: 13
+11306.8
+Number of vertices: 14
+13690.4
+Number of vertices: 14
+12074.6
+Number of vertices: 14
+12229
+Number of vertices: 14
+12906.2
+Number of vertices: 14
+12279.2
+Number of vertices: 15
+13355.6
+Number of vertices: 15
+14678
+Number of vertices: 15
+13247.4
+Number of vertices: 15
+14866.4
+Number of vertices: 15
+16142.9
+Number of vertices: 16
+15595.1
+Number of vertices: 16
+14768.5
+Number of vertices: 16
+16365
+Number of vertices: 16
+17307.7
+Number of vertices: 16
+17588.1
+Number of vertices: 17
+16210.7
+Number of vertices: 17
+13617.2
+Number of vertices: 17
+15988.6
+Number of vertices: 17
+16275.1
+Number of vertices: 17
+18769.9
+Number of vertices: 18
+19472.7
+Number of vertices: 18
+19518.9
+Number of vertices: 18
+16957.4
+Number of vertices: 18
+20286.9
+Number of vertices: 18
+18648.7
+Number of vertices: 19
+19392.8
+Number of vertices: 19
+17931.2
+Number of vertices: 19
+17540.6
+Number of vertices: 19
+18272.2
+Number of vertices: 19
+20833.2
+Number of vertices: 20
+22516.4
+Number of vertices: 20
+19443
+Number of vertices: 20
+21549.8
+Number of vertices: 20
+21693.4
+Number of vertices: 20
+19101
+Number of vertices: 21
+20858.9
+Number of vertices: 21
+22678.8
+Number of vertices: 21
+24431.3
+Number of vertices: 21
+21591.6
+Number of vertices: 21
+24216.4
+Number of vertices: 22
+23380.7
+Number of vertices: 22
+25534.8
+Number of vertices: 22
+24257.5
+Number of vertices: 22
+21383.4
+Number of vertices: 22
+22348.1
+Number of vertices: 23
+26113.7
+Number of vertices: 23
+24432.4
+Number of vertices: 23
+25768.3
+Number of vertices: 23
+28791.4
+Number of vertices: 23
+26862
+Number of vertices: 24
+28701.9
+Number of vertices: 24
+24866.1
+Number of vertices: 24
+30425.1
+Number of vertices: 24
+31834.2
+Number of vertices: 24
+27850.1
+Number of vertices: 25
+27902.8
+Number of vertices: 25
+29694.8
+Number of vertices: 25
+30500.8
+Number of vertices: 25
+27198.1
+Number of vertices: 25
+28630.9
+Number of vertices: 26
+31219.5
+Number of vertices: 26
+27705.2
+Number of vertices: 26
+30822.6
+Number of vertices: 26
+33739.7
+Number of vertices: 26
+31747.5
+Number of vertices: 27
+28042.3
+Number of vertices: 27
+33471.2
+Number of vertices: 27
+32250.3
+Number of vertices: 27
+27494.1
+Number of vertices: 27
+34509.2
+Number of vertices: 28
+35879
+Number of vertices: 28
+35311.2
+Number of vertices: 28
+35168.4
+Number of vertices: 28
+30788.2
+Number of vertices: 28
+32535.3
+Number of vertices: 29
+34705.5
+Number of vertices: 29
+38214.4
+Number of vertices: 29
+37981.3
+Number of vertices: 29
+31918.9
+Number of vertices: 29
+31097.4
+Number of vertices: 30
+31205.5
+Number of vertices: 30
+40102.1
+Number of vertices: 30
+33113.2
+Number of vertices: 30
+34806
+Number of vertices: 30
+37680.7
+Number of vertices: 31
+37373.1
+Number of vertices: 31
+36713
+Number of vertices: 31
+32521.6
+Number of vertices: 31
+35779
+Number of vertices: 31
+36233.1
+Number of vertices: 32
+33553.8
+Number of vertices: 32
+44798
+Number of vertices: 32
+39957.6
+Number of vertices: 32
+38317.4
+Number of vertices: 32
+42924.8
+Number of vertices: 33
+37736.3
+Number of vertices: 33
+40695.2
+Number of vertices: 33
+42117.2
+Number of vertices: 33
+37734.3
+Number of vertices: 33
+39907.5
+Number of vertices: 34
+42206
+Number of vertices: 34
+46486.6
+Number of vertices: 34
+40668.9
+Number of vertices: 34
+41867.9
+Number of vertices: 34
+44803.9
+Number of vertices: 35
+40953
+Number of vertices: 35
+42450.7
+Number of vertices: 35
+52309
+Number of vertices: 35
+48711.1
+Number of vertices: 35
+46562.1
+Number of vertices: 36
+47968.1
+Number of vertices: 36
+45902.8
+Number of vertices: 36
+42633.4
+Number of vertices: 36
+47611.8
+Number of vertices: 36
+44618.1
+Number of vertices: 37
+45056.9
+Number of vertices: 37
+51267.4
+Number of vertices: 37
+51640.3
+Number of vertices: 37
+42766.5
+Number of vertices: 37
+51091
+Number of vertices: 38
+54822.6
+Number of vertices: 38
+47017
+Number of vertices: 38
+54091.9
+Number of vertices: 38
+47949
+Number of vertices: 38
+48418.5
+Number of vertices: 39
+51312.9
+Number of vertices: 39
+55062.1
+Number of vertices: 39
+49516.1
+Number of vertices: 39
+52957.7
+Number of vertices: 39
+49052.6
+Number of vertices: 40
+55491.1
+Number of vertices: 40
+47982.9
+Number of vertices: 40
+51590.3
+Number of vertices: 40
+54099.2
+Number of vertices: 40
+58140.6
+Number of vertices: 41
+54371.6
+Number of vertices: 41
+51269.7
+Number of vertices: 41
+54398.2
+Number of vertices: 41
+53746
+Number of vertices: 41
+54373.3
+Number of vertices: 42
+57548.7
+Number of vertices: 42
+58061.2
+Number of vertices: 42
+58624.5
+Number of vertices: 42
+59179.1
+Number of vertices: 42
+49808.9
+Number of vertices: 43
+55612.5
+Number of vertices: 43
+57653.6
+Number of vertices: 43
+49583.7
+Number of vertices: 43
+57403
+Number of vertices: 43
+64261.2
+Number of vertices: 44
+62469.5
+Number of vertices: 44
+59242.2
+Number of vertices: 44
+55654.4
+Number of vertices: 44
+51845.8
+Number of vertices: 44
+61520.4
+Number of vertices: 45
+61805.2
+Number of vertices: 45
+52085
+Number of vertices: 45
+65930.4
+Number of vertices: 45
+56939
+Number of vertices: 45
+60249.2
+Number of vertices: 46
+63461.7
+Number of vertices: 46
+68206.7
+Number of vertices: 46
+64262.9
+Number of vertices: 46
+61863.5
+Number of vertices: 46
+72020.1
+Number of vertices: 47
+69004.3
+Number of vertices: 47
+66692.2
+Number of vertices: 47
+67115.2
+Number of vertices: 47
+69342.3
+Number of vertices: 47
+68715.4
+Number of vertices: 48
+67863.6
+Number of vertices: 48
+67985.9
+Number of vertices: 48
+65349.8
+Number of vertices: 48
+59090.6
+Number of vertices: 48
+69104.7
+Number of vertices: 49
+69646
+Number of vertices: 49
+65335.2
+Number of vertices: 49
+63237.7
+Number of vertices: 49
+68622.2
+Number of vertices: 49
+72409.5
+Number of vertices: 50
+68839.6
+Number of vertices: 50
+68452.7
+Number of vertices: 50
+67097.3
+Number of vertices: 50
+67848
+Number of vertices: 50
+70509.2
+Number of vertices: 51
+74603.8
+Number of vertices: 51
+71345.4
+Number of vertices: 51
+77325.4
+Number of vertices: 51
+69830.3
+Number of vertices: 51
+71579.6
+Number of vertices: 52
+74094.9
+Number of vertices: 52
+80125.2
+Number of vertices: 52
+77819.4
+Number of vertices: 52
+72912.9
+Number of vertices: 52
+75037.8
+Number of vertices: 53
+77566.1
+Number of vertices: 53
+73540.5
+Number of vertices: 53
+78782.2
+Number of vertices: 53
+76755.3
+Number of vertices: 53
+68621.2
+Number of vertices: 54
+78464.3
+Number of vertices: 54
+74554
+Number of vertices: 54
+78159.2
+Number of vertices: 54
+75172.4
+Number of vertices: 54
+78056.5
+Number of vertices: 55
+79692.4
+Number of vertices: 55
+87082.4
+Number of vertices: 55
+78638.8
+Number of vertices: 55
+77786.2
+Number of vertices: 55
+73327.1
+Number of vertices: 56
+82026.1
+Number of vertices: 56
+81928.7
+Number of vertices: 56
+76003.7
+Number of vertices: 56
+77537.1
+Number of vertices: 56
+89606.4
+Number of vertices: 57
+74393.4
+Number of vertices: 57
+74440
+Number of vertices: 57
+77653.7
+Number of vertices: 57
+84208.6
+Number of vertices: 57
+77890.5
+Number of vertices: 58
+77592.3
+Number of vertices: 58
+80395.4
+Number of vertices: 58
+81329.6
+Number of vertices: 58
+87467.5
+Number of vertices: 58
+88093.5
+Number of vertices: 59
+84403
+Number of vertices: 59
+90831.3
+Number of vertices: 59
+88935
+Number of vertices: 59
+87618.8
+Number of vertices: 59
+74423.4
+Number of vertices: 60
+90838.5
+Number of vertices: 60
+89900.6
+Number of vertices: 60
+84693.2
+Number of vertices: 60
+87273.5
+Number of vertices: 60
+88806.5
+Number of vertices: 61
+92719.3
+Number of vertices: 61
+87895.5
+Number of vertices: 61
+83480.5
+Number of vertices: 61
+82462.1
+Number of vertices: 61
+89464.8
+Number of vertices: 62
+90330.1
+Number of vertices: 62
+92569.5
+Number of vertices: 62
+88039.9
+Number of vertices: 62
+84652.8
+Number of vertices: 62
+92585.9
+Number of vertices: 63
+98500.2
+Number of vertices: 63
+92189.5
+Number of vertices: 63
+97650.1
+Number of vertices: 63
+92946.5
+Number of vertices: 63
+99345.9
+Number of vertices: 64
+86507.3
+Number of vertices: 64
+95931.2
+Number of vertices: 64
+90061.9
+Number of vertices: 64
+94368.2
+Number of vertices: 64
+88596.4
+Number of vertices: 65
+92633.6
+Number of vertices: 65
+98628.8
+Number of vertices: 65
+87967.1
+Number of vertices: 65
+95702
+Number of vertices: 65
+101290
+Number of vertices: 66
+96939.5
+Number of vertices: 66
+98685.3
+Number of vertices: 66
+99711.5
+Number of vertices: 66
+99959.5
+Number of vertices: 66
+96526
+Number of vertices: 67
+100039
+Number of vertices: 67
+102753
+Number of vertices: 67
+101100
+Number of vertices: 67
+97150.7
+Number of vertices: 67
+103014
+Number of vertices: 68
+101281
+Number of vertices: 68
+94648.4
+Number of vertices: 68
+96939.7
+Number of vertices: 68
+112129
+Number of vertices: 68
+96426.5
+Number of vertices: 69
+101192
+Number of vertices: 69
+111714
+Number of vertices: 69
+98014.1
+Number of vertices: 69
+98617.1
+Number of vertices: 69
+118120
+Number of vertices: 70
+115710
+Number of vertices: 70
+109174
+Number of vertices: 70
+100044
+Number of vertices: 70
+113028
+Number of vertices: 70
+96797.7
+Number of vertices: 71
+97675
+Number of vertices: 71
+101892
+Number of vertices: 71
+109878
+Number of vertices: 71
+100116
+Number of vertices: 71
+107109
+Number of vertices: 72
+105273
+Number of vertices: 72
+100630
+Number of vertices: 72
+106281
+Number of vertices: 72
+105128
+Number of vertices: 72
+104041
+Number of vertices: 73
+102881
+Number of vertices: 73
+103226
+Number of vertices: 73
+112676
+Number of vertices: 73
+108997
+Number of vertices: 73
+107931
+Number of vertices: 74
+113096
+Number of vertices: 74
+102584
+Number of vertices: 74
+114124
+Number of vertices: 74
+112159
+Number of vertices: 74
+117873
+Number of vertices: 75
+113453
+Number of vertices: 75
+117818
+Number of vertices: 75
+113862
+Number of vertices: 75
+121152
+Number of vertices: 75
+104089
+Number of vertices: 76
+117805
+Number of vertices: 76
+119169
+Number of vertices: 76
+111709
+Number of vertices: 76
+119051
+Number of vertices: 76
+114214
+Number of vertices: 77
+115409
+Number of vertices: 77
+124890
+Number of vertices: 77
+115693
+Number of vertices: 77
+113724
+Number of vertices: 77
+109394
+Number of vertices: 78
+119436
+Number of vertices: 78
+120255
+Number of vertices: 78
+125021
+Number of vertices: 78
+114622
+Number of vertices: 78
+112049
+Number of vertices: 79
+125117
+Number of vertices: 79
+113253
+Number of vertices: 79
+130191
+Number of vertices: 79
+117398
+Number of vertices: 79
+118398
+Number of vertices: 80
+121250
+Number of vertices: 80
+118366
+Number of vertices: 80
+128938
+Number of vertices: 80
+130457
+Number of vertices: 80
+118240
+Number of vertices: 81
+133090
+Number of vertices: 81
+128586
+Number of vertices: 81
+123259
+Number of vertices: 81
+132914
+Number of vertices: 81
+116320
+Number of vertices: 82
+129549
+Number of vertices: 82
+123030
+Number of vertices: 82
+130496
+Number of vertices: 82
+116255
+Number of vertices: 82
+133551
+Number of vertices: 83
+130799
+Number of vertices: 83
+129490
+Number of vertices: 83
+118430
+Number of vertices: 83
+132691
+Number of vertices: 83
+136860
+Number of vertices: 84
+127858
+Number of vertices: 84
+127093
+Number of vertices: 84
+140888
+Number of vertices: 84
+125096
+Number of vertices: 84
+122166
+Number of vertices: 85
+131731
+Number of vertices: 85
+132086
+Number of vertices: 85
+129439
+Number of vertices: 85
+141882
+Number of vertices: 85
+133597
+Number of vertices: 86
+123267
+Number of vertices: 86
+145937
+Number of vertices: 86
+139912
+Number of vertices: 86
+140146
+Number of vertices: 86
+131570
+Number of vertices: 87
+122394
+Number of vertices: 87
+142515
+Number of vertices: 87
+141194
+Number of vertices: 87
+142588
+Number of vertices: 87
+139780
+Number of vertices: 88
+135266
+Number of vertices: 88
+146079
+Number of vertices: 88
+130586
+Number of vertices: 88
+132839
+Number of vertices: 88
+127919
+Number of vertices: 89
+136110
+Number of vertices: 89
+132551
+Number of vertices: 89
+144194
+Number of vertices: 89
+147121
+Number of vertices: 89
+152374
+Number of vertices: 90
+141236
+Number of vertices: 90
+146702
+Number of vertices: 90
+144630
+Number of vertices: 90
+140773
+Number of vertices: 90
+139780
